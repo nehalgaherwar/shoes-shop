@@ -33,4 +33,12 @@ It is suitable for beginners learning web development and UI design.
 ---
 
 ## 📂 Project Structure
+Rajput-Shoes/                                                                                    
+│                                                                  
+├── index.html # Main HTML file                                              
+├── styles.css # Styling file                                          
+├── script.js # JavaScript file                                                                                                        
+└── README.md # Project documentation                                                          
+
+--------
 
