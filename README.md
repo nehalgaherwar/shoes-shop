@@ -40,5 +40,39 @@ Rajput-Shoes/
 ├── script.js # JavaScript file                                                                                                        
 └── README.md # Project documentation                                                          
 
---------
+
+---
+
+## 🚀 How to Run the Project
+
+1. Download or clone the repository  
+2. Open `index.html` in any modern web browser  
+3. Enjoy browsing the sneakers!  
+
+---
+
+## 🔮 Future Improvements
+
+- Add **Add to Cart** functionality  
+- Product filtering and search  
+- Price in INR (₹)  
+- Responsive navbar  
+- Backend integration  
+
+---
+
+## 👤 Author
+
+**Nehal Gaherwar**  
+Frontend Developer  
+
+---
+
+## 📄 License
+
+This project is open-source and free to use for learning and personal projects.
+
+---
+
+⭐ If you like this project, don’t forget to give it a star!
 
